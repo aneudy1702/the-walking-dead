@@ -1,0 +1,56 @@
+{
+	"local-jordan": {
+		"consumer_key": "125Qf96C0SSHVYJ7w59KRg",
+		"consumer_secret":"MqKO8MlT9Yydh1qKtpmxXlaDT9i2d0YaR6j2LVxM",
+		"access_token_key":"1176331388-16saAYavM4BOSwWCPsFxsSeR9gor0ZHJQt5evL3",
+		"access_token_secret":"bW8JRGGSNf8tvYgbaFhToLuyS7Viqt96IslfxMEyw"
+	},
+	"local-aneudy": {
+		"consumer_key": "P1ZcJXS24cbEaaqGj8g",
+		"consumer_secret":"rNGL8uBHBOLIt5TOVPOzaiWdXyQH1KQH9TpZzjqeiEY",
+		"access_token_key":"1449591614-YVSLz6bykIOhCrVF3AfR2tNs9uvj2ocPO8uvmCs",
+		"access_token_secret":"YBCSr3aFO3IpJm6W9zptbTCgiiX5vpkxzaNDxjcWeY"
+	},
+	"local": {
+		"consumer_key": "5KHGWjSRTAH7BWIGqvVQrg",
+		"consumer_secret":"8j2Blsam1jD5eyn5aq3AfRd7fyQYfQfQfAShlcjIE",
+		"access_token_key":"1934691-lWnfEvfoTQ2BgQu3ZrbqKTxF6zYGVQopHUJ0rGICn0",
+		"access_token_secret":"WhhayMAS9b3TGd7q9cPvVTPy9J50QWMhf685gkixkvI"
+	},
+	"media-account" : {
+		"consumer_key": "ZTBh1FqVR4LYXe2UdnBscA",
+		"consumer_secret":"mUWQNlP40etyMp1HGIBfbPtQrHLu99nChfRGxpWQIo",
+		"access_token_key":"1265334228-G2WmykMcS1Y9HWiPrsBUkXS37sgxwwRa35XWmEy",
+		"access_token_secret":"H7g4v7TG5IxiEdU8ujFpg4vGbz2zxzOt3VAf2ZO0U"
+	},
+	"dev-ue1a-openboxus1": {
+		"consumer_key": "1OPSBdhLOSoF6ZAspXAfeQ",
+		"consumer_secret":"ZdXdtmKG5E9yD4kOWscTKh2y9LdzBN10Ndf9QA2nHTs",
+		"access_token_key":"1934691-NZcDs4VuFw7svKlSltL5C49mUu4WQZ05aa6a0HHaPv",
+		"access_token_secret":"b8oWOPZDZIHAbHfWG8RChYqHTskDnsu36dDfNHAYQ8"
+	},
+	"stage-ue1a-openboxus1": {
+		"consumer_key": "7Gb4jWucqJUGuqJLfeSLw",
+		"consumer_secret":"8ZwUifosO68JFQ69PlI6MeuZDGNX3tBOwXppfQAWWw4",
+		"access_token_key":"817740722-j4ySRXomwZQlqLUnPItbApgze6gULyOwNI0ahQ2T",
+		"access_token_secret":"agxejlz22x4brMt790cZja2KValqwVx9L6Tfu7QCg"
+	},
+	"stage-ue1b-openboxus1": {
+		"consumer_key": "59Ztn2gKGdItOmzrESyIA",
+		"consumer_secret":"DvgMWmjhD7JAeL1La9Rm7zWUQhxJ44R2X5s42dVys",
+		"access_token_key":"817740722-iLrtrehM0eEophjCnIPN5XnaYvyfqcp7wf8D5Gs",
+		"access_token_secret":"Qgo8cZl1KtN4mUNy25p9csMjv74uvyQ4vddzRcvVw"
+	},
+	"live-ue1a-openboxus1": {
+		"consumer_key": "ZxzlH4mKETFAT0RLDEsOMQ",
+		"consumer_secret":"8AskWXbPYkqh13OnVvy5ii9tSulqz70u5h4txTyEG7g",
+		"access_token_key":"1551660715-ED1a8WEpl7Ug6ShYAWD5C3V0ExhAqyuOK3hV5Wj",
+		"access_token_secret":"VsNNp9HqxayAX8W8u8j6j13QBEsPzESdxvtCQeahl4"
+	},
+	"live-ue1b-openboxus1": {
+		"consumer_key": "RXC1H7jUu3sg5JQxROK0jg",
+		"consumer_secret":"RmHEympcKkTvnMC8tBCImfLAS9y2PA2yIfRipRc53Xs",
+		"access_token_key":"1551660715-njqznNK5Ki7COhatpyopVF9CL2wuHA2H8FkkEO3",
+		"access_token_secret":"ZmSpUglgY8EZzxBXDGcEGfty0xcv96jeP0SrxEpSE"
+	}
+}

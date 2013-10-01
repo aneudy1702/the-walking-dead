@@ -1,0 +1,372 @@
+{
+    "backgrounds" : {
+        "rhonj": {
+            "WregBg" : "../shows/realhousewivesNJ/buzzbubbler/images/background.jpg",
+            "WretinaBg" : "../shows/realhousewivesNJ/buzzbubbler/images/background@2x.jpg",
+            "lightboxBg" : "../shows/realhousewivesNJ/buzzbubbler/images/background-lightbox.jpg"
+        },
+        "theVoiceUk": {
+            "WregBg" : "The_Voice_widget_BG_01.jpg",
+            "WretinaBg" : "the_voice_bg_htc_690x600.jpg",
+            "lightboxBg" : "the_voice_bg_htc_690x600.jpg"
+        },
+        "formula1": {
+            "WregBg" : "../shows/formula1/images/background.jpg",
+            "WretinaBg" : "../shows/formula1/images/background@2x.jpg",
+            "lightboxBg" : "../shows/formula1/images/background-lightbox.jpg"
+        },
+        "jamesfranco": {
+            "WregBg" : "../shows/jamesfranco/buzzbars/images/background.jpg",
+            "WretinaBg" : "../shows/jamesfranco/buzzbars/images/background@2x.jpg",
+            "lightboxBg" : "../shows/jamesfranco/buzzbars/images/background-lightbox.jpg"
+        },
+        "default" : {
+            "WregBg" : "../shows/samples/buzzbubbler/images/background.jpg",
+            "WretinaBg" : "../shows/samples/buzzbubbler/images/background@2x.jpg",
+            "lightboxBg" : "../shows/samples/buzzbubbler/images/background@2x.jpg"
+        }
+    },
+    "keywords": [
+        {
+            "text": "Tom Jones|RealSirTomJones|Sir Tom Jones|TomJones|SirTomJones",
+            "addText" : "Judge",
+            "twitter": "RealSirTomJones",
+            "regBg" : "Tom_140.png",
+            "lightboxBg" : "Tom_336.png",
+            "flags" : ["theVoiceUk"]
+        },
+        {
+            "text": "Will I Am|iamwill",
+            "addText" : "Judge",
+            "twitter": "iamwill",
+            "regBg" : "Will_140.png",
+            "lightboxBg" : "Will_336.png",
+            "flags" : ["theVoiceUk"]
+        },
+        {
+            "text": "Jessie J|JessieJ",
+            "addText" : "Judge",
+            "twitter": "jessiej",
+            "regBg" : "Jessie_140.png",
+            "lightboxBg" : "Jessie_336.png",
+            "flags" : ["theVoiceUk"]
+        },
+        {
+            "text": "Danny O Donoghue|TheScript_Danny|DannyODonoghue",
+            "addText" : "Judge",
+            "twitter": "TheScript_Danny",
+            "regBg" : "Danny_140.png",
+            "lightboxBg" : "Danny_336.png",
+            "flags" : ["theVoiceUk"]
+        },
+        {
+            "text": "Holly Willoughby|hollywills|HollyWilloughby",
+            "addText" : "Presenter",
+            "twitter": "hollywills",
+            "regBg" : "Holly_140.png",
+            "lightboxBg" : "Holly_336.png",
+            "flags" : ["theVoiceUk"]
+        },
+        {
+            "text": "Reggie Yates|regyates|ReggieYates",
+            "addText" : "Presenter",
+            "twitter": "regyates",
+            "regBg" : "Reggie_140.png",
+            "lightboxBg" : "Reggie_336.png",
+            "flags" : ["theVoiceUk"]
+        },
+        {
+            "text": "QLD_Maroon|QLDER|Go Queensland|GoQueensland|Queenslander",
+            "addText" : "Team",
+            "twitter": "QLD_Maroon",
+            "regBg" : "qld_140.png",
+            "lightboxBg" : "qld_336.png",
+            "flags" : ["stateOfOrigin"]
+        },
+        {
+            "text": "NSWRL|GoTheBlues|Up the blues|uptheblues",
+            "addText" : "Team",
+            "twitter": "NSWRL",
+            "regBg" : "nsw_140.png",
+            "lightboxBg" : "nsw_336.png",
+            "flags" : ["stateOfOrigin"]
+        },
+        {
+            "text": "Caroline Manzo|carolinemanzo|CarolineManzo|TeamCaroline",
+            "addText" : "",
+            "twitter": "carolinemanzo",
+            "regBg" : "shows/realhousewivesNJ/buzzbubbler/images/bubbles/widget/RHoNJ_SmallBubbles_Caroline.png",
+            "lightboxBg" : "shows/realhousewivesNJ/buzzbubbler/images/bubbles/lightbox/RHoNJ_LargeBubbles_Caroline.png",
+            "flags" : ["rhonj"]
+        },
+        {
+            "text": "Jacqueline Laurita|jaclaurita|JacquelineLaurita|TeamJacqueline ",
+            "addText" : "",
+            "twitter": "jaclaurita",
+            "regBg" : "shows/realhousewivesNJ/buzzbubbler/images/bubbles/widget/RHoNJ_SmallBubbles_Jackie1.png",
+            "lightboxBg" : "shows/realhousewivesNJ/buzzbubbler/images/bubbles/lightbox/RHoNJ_LargeBubbles_Jackie1.png",
+            "flags" : ["rhonj"]
+        },
+        {
+            "text": "Kathy Wakile|KathyWakile|TeamKathy",
+            "addText" : "",
+            "twitter": "KathyWakile",
+            "regBg" : "shows/realhousewivesNJ/buzzbubbler/images/bubbles/widget/RHoNJ_SmallBubbles_Kathy.png",
+            "lightboxBg" : "shows/realhousewivesNJ/buzzbubbler/images/bubbles/lightbox/RHoNJ_LargeBubbles_Kathy.png",
+            "flags" : ["rhonj"]
+        },
+        {
+            "text": "Melissa Gorga|MelissaGorga|TeamMelissa",
+            "addText" : "",
+            "twitter": "melissagorga",
+            "regBg" : "shows/realhousewivesNJ/buzzbubbler/images/bubbles/widget/RHoNJ_SmallBubbles_Melissa.png",
+            "lightboxBg" : "shows/realhousewivesNJ/buzzbubbler/images/bubbles/lightbox/RHoNJ_LargeBubbles_Melissa.png",
+            "flags" : ["rhonj"]
+        },
+        {
+            "text": "Teresa Giudice|teresa_giudice|TeresaGiudice|TeamTeresa",
+            "addText" : "",
+            "twitter": "teresa_giudice",
+            "regBg" : "shows/realhousewivesNJ/buzzbubbler/images/bubbles/widget/RHoNJ_SmallBubbles_Teresa.png",
+            "lightboxBg" : "shows/realhousewivesNJ/buzzbubbler/images/bubbles/lightbox/RHoNJ_LargeBubbles_Teresa.png",
+            "flags" : ["rhonj"]
+        },
+        {
+            "text": "Sebastian Vettel|Vettel",
+            "addText" : "Red Bull Racing",
+            "twitter": "",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0001_Sebastian-Vettel.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0001_Sebastian-Vettel.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Mark Webber|AussieGrit|MarkWebber",
+            "addText" : "Red Bull Racing",
+            "twitter": "AussieGrit",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0021_Mark-Webber.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0021_Mark-Webber.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Fernando Alonso|alo_oficial|FernandoAlonso",
+            "addText" : "Ferrari",
+            "twitter": "alo_oficial",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0003_Fernando-Alonso.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0003_Fernando-Alonso.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Felipe Massa|Felipe1Massa|FelipeMassa",
+            "addText" : "Ferrari",
+            "twitter": "Felipe1Massa",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0002_Felipe-Massa.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0002_Felipe-Massa.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Jenson Button|jensonbutton",
+            "addText" : "McLaren",
+            "twitter": "jensonbutton",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0000_Jenson-button.png",
+            "lightboxBg" : "shows/formupla1/images/bubbles/lightbox/_0000_Jenson-Button.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Sergio Perez|schecoperez|SergioPerez",
+            "addText" : "McLaren",
+            "twitter": "schecoperez",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0020_Sergio-Perez.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0020_Sergio-Perez.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Kimi Raikkonen|Raikkonen",
+            "addText" : "Lotus",
+            "twitter": "",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0004_Kimi-Raikkonen.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0004_Kimi-Raikkonen.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Romain Grosjean|rgrosjean|Grosjean",
+            "addText" : "Lotus",
+            "twitter": "rgrosjean",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0017_Romain-Grosjean.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0017_Romain-Grosjean.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Nico Rosberg|nico_rosberg|NicoRosberg",
+            "addText" : "Mercedes",
+            "twitter": "nico_rosberg",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0019_Nico-Rosberg.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0019_Nico-Rosberg.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Lewis Hamilton|lewishamilton",
+            "addText" : "Mercedes",
+            "twitter": "lewishamilton",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0018_Lewis-Hamilton.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0018_Lewis-Hamilton.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Nico Hulkenberg|nicohulkenberg|Hulkenberg",
+            "addText" : "Sauber",
+            "twitter": "nicohulkenberg",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0016_Nico-Hulkenberg.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0016_Nico-Hulkenberg.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Esteban Gutierrez|EstebanGtz|EstebanGutierrez",
+            "addText" : "Sauber",
+            "twitter": "EstebanGtz",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0015_Esteban-Gutierrez.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0015_Esteban-Gutierrez.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Paul di Resta|pauldirestaf1|PauldiResta",
+            "addText" : "Force India",
+            "twitter": "pauldirestaf1",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0014_Paul-Resta.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0014_Paul-Resta.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Pastor Maldonado|pastormaldo|Maldonado",
+            "addText" : "Williams",
+            "twitter": "pastormaldo",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0012_Pastor-Maldonado.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0012_Pastor-Maldonado.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Valtteri Bottas|valtteribottas",
+            "addText" : "Williams",
+            "twitter": "valtteribottas",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0011_Valtteri-Bottas.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0011_Valtteri-Bottas.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Jean-Eric Vergne|jeanericvergne",
+            "addText" : "Toro Rosso",
+            "twitter": "jeanericvergne",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0010_Jean-Eric-Vergne.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0010_Jean-Eric-Vergne.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Daniel Ricciardo|danielricciardo",
+            "addText" : "Toro Rosso",
+            "twitter": "danielricciardo",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0009_Daniel-Ricciardo.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0009_Daniel-Ricciardo.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Charles Pic|charles_pic1|CharlesPic",
+            "addText" : "Caterham",
+            "twitter": "charles_pic1",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0008_Charles-Pic.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0008_Charles-Pic.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Giedo van der Garde|gvandergarde|vanderGarde",
+            "addText" : "Caterham",
+            "twitter": "gvandergarde",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0007_Giedo-van-der-Garde.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0007_Giedo-van-der-Garde.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Max Chilton|maxchilton",
+            "addText" : "Marussia",
+            "twitter": "maxchilton",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0005_Max-Chilton.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0005_Max-Chilton.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Jules Bianchi|Jules_Bianchi|julesbianchi",
+            "addText" : "Marussia",
+            "twitter": "Jules_Bianchi",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0006_Jules-Bianchi.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0006_Jules-Bianchi.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "Adrian Sutil|Sutil",
+            "addText" : "Force India",
+            "twitter": "",
+            "regBg" : "shows/formula1/images/bubbles/widget/_0013_Adrian-Sutil.png",
+            "lightboxBg" : "shows/formula1/images/bubbles/lightbox/_0013_Adrian-Sutil.png",
+            "flags" : ["formula1"]
+        },
+        {
+            "text": "James Franco",
+            "addText" : "James Franco",
+            "twitter": "JamesFrancoTV",         
+            "flags" : ["jamesfranco"]
+        },
+        {
+            "text": "Seth Rogen",
+            "addText" : "Seth Rogen",
+            "twitter": "Sethrogen",         
+            "flags" : ["jamesfranco"]
+        },
+        {
+            "text": "Aziz Ansari",
+            "addText" : "Aziz Ansari",
+            "twitter": "azizansari",            
+            "flags" : ["jamesfranco"]
+        },
+        {
+            "text": "Bill Hader",
+            "addText" : "Bill Hader",
+            "twitter": "",          
+            "flags" : ["jamesfranco"]
+        },
+        {
+            "text": "Jonah Hill",
+            "addText" : "Jonah Hill",
+            "twitter": "JonahHill",         
+            "flags" : ["jamesfranco"]
+        },
+        {
+            "text": "Nick Kroll",
+            "addText" : "Nick Kroll",
+            "twitter": "nickkroll",         
+            "flags" : ["jamesfranco"]
+        },
+        {
+            "text": "Natasha Leggero",
+            "addText" : "Natasha Leggero",
+            "twitter": "natashaleggero",            
+            "flags" : ["jamesfranco"]
+        },
+        {
+            "text": "Jeff Ross",
+            "addText" : "Jeff Ross",
+            "twitter": "realjeffreyross",           
+            "flags" : ["jamesfranco"]
+        },
+        {
+            "text": "Andy Samberg",
+            "addText" : "Andy Samberg",
+            "twitter": "",          
+            "flags" : ["jamesfranco"]
+        },
+        {
+            "text": "Sarah Silverman",
+            "addText" : "Sarah Silverman",
+            "twitter": "SarahKSilverman",           
+            "flags" : ["jamesfranco"]
+        }
+
+    ]
+}

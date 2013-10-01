@@ -1,0 +1,20 @@
+{
+  "name": "twitter",
+  "version": "0.0.1",
+  "description": "Twitter Api Module",
+  "main": "startup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon startup.js"
+  },
+  "repository": "",
+  "author": "Jordan Rome/Kristopher Teehan",
+  "license": "NA",
+  "dependencies": {
+    "twit": "~1.1.6",
+    "ws": "~0.4.25"
+  },
+  "devDependencies": {
+    "nodemon" : "*"
+  }
+}
